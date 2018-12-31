@@ -10,6 +10,6 @@ function happyHolidayTo(holiday){
   return "Happy Independence Day, you!"
 }
 
-function holidayCountdown('holiday' 'days'){
+function holidayCountdown(days){
 return "It's 21 days until Independence Day!"
 }
